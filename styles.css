@@ -122,13 +122,13 @@ width : 100%;
 text-align : center;
 }
 
-img.info-box-weather-icon{
+.info-box-weather-icon.img{
 height : 30px;
 width  : 30px;
 margin : 10px;
 float  :left;
 }
-h1.info-box-weather-icon{
+.info-box-weather-icon h1{
 font-size  : 65px;
 font-weight: 200;
 padding    : 0;
